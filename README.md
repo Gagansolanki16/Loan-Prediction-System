@@ -1,4 +1,4 @@
-# 🚀 Fork & Contribute: Loan Approval Prediction  
+# 🚀 Fork & Contribute: Loan Approval Prediction .
 
 This project is a **Loan Approval Prediction System** built with **Streamlit** and **Machine Learning (Logistic Regression)**.  
 
