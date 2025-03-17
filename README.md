@@ -2,7 +2,7 @@
 
 This project is a **Loan Approval Prediction System** built with **Streamlit** and **Machine Learning (Logistic Regression)**.  
 
-If you’re forking this project to **modify, improve, or contribute**, follow the steps below.  
+If you’re forking this project to **modify, improve, or contribute**, follow the steps below.
 
 ---
 
